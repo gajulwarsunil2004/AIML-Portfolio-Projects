@@ -1,17 +1,21 @@
-# AIML-Portfolio-Projects
+# Student Marks Prediction
 
-## Projects
-
-1. Student Marks Prediction
-2. Employee Attrition Prediction
-3. Customer Segmentation
-4. House Price Prediction
-5. Loan Approval Prediction
+## Objective
+Predict student marks based on study hours using Linear Regression.
 
 ## Technologies Used
 - Python
-- NumPy
 - Pandas
 - Matplotlib
 - Scikit-Learn
-- Jupyter Notebook
+
+## Results
+- Accuracy: 99%
+- Predicted marks based on study hours
+
+## Project Structure
+
+Student-Marks-Prediction/
+├── student_marks_prediction.py
+├── README.md
+└── screenshots/
